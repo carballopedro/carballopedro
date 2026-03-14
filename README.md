@@ -1,16 +1,24 @@
-## Hi there 👋
+# Pedro Carballo
 
-<!--
-**carballopedro/carballopedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista Programador (UNLP) | Estudiante avanzado de Licenciatura en Sistemas
 
-Here are some ideas to get you started:
+## Habilidades
+- Java
+- Python
+- HTML / CSS / JavaScript
+- SQL / MySQL
+- Git / Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git" />
+<img src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="48"/>
+</p>
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carballopedro&layout=compact&theme=tokyonight)
+
+## Contacto
+- LinkedIn: www.linkedin.com/in/pedro-carballo
+- GitHub: https://github.com/carballopedro
