@@ -18,7 +18,7 @@ Analista Programador (UNLP) | Estudiante avanzado de Licenciatura en Sistemas
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carballopedro&layout=compact&theme=tokyonight&v=1)
+![Metrics](https://metrics.lecoq.io/carballopedro?base=header,repositories,languages&base.languages.used=true)
 
 ## Contacto
 - LinkedIn: www.linkedin.com/in/pedro-carballo
